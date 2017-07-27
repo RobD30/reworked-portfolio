@@ -12,6 +12,10 @@
 	margin-right: auto;
 }
 
+.no-access {
+	cursor: no-drop;
+}
+
 header {
 	background-color: cornflowerblue;
 }
