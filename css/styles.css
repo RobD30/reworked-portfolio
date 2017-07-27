@@ -12,12 +12,21 @@
 	margin-right: auto;
 }
 
+.box {
+	width: 100%;
+}
+
 .no-access {
 	cursor: no-drop;
 }
 
+body {
+	background-color: #D1EAEC;
+}
+
 header {
-	background-color: cornflowerblue;
+	background-color: #D1EAEC;
+	text-align: right;
 }
 
 figcaption {
@@ -28,3 +37,4 @@ figcaption {
 ul {
 	list-style-type: none;
 }
+
